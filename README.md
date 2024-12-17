@@ -1,1 +1,1 @@
-# machine-learning-with-python- feature scaling code by sklearn 
+# machine-learning-with-python- by sklearn 
